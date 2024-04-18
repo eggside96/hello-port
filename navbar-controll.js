@@ -4,7 +4,7 @@ var navbar = document.getElementById("navbar");
 var sticky = navbar.offsetTop;
 
 function myFunction() {
-    var aboutPage = document.getElementById("main-page");
+    var mainpage = document.getElementById("main-page");
 
     // '???'가 존재하면 네비게이션 바 숨기기
     if (mainpage) {
