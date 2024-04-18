@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     // 페이지 섹션 별로 HTML 로드
     loadHtml('main-page', 'main-page.html');
-    // loadHtml('nav-page', 'nav-page.html');
     loadHtml('about-page', 'about-page.html');
     loadHtml('project-page', 'project-page.html');
 
