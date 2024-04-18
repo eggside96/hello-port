@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // loadHtml('nav-page', 'nav-page.html');
     loadHtml('about-page', 'about-page.html');
     loadHtml('project-page', 'project-page.html');
+    loadHtml('footer-page', 'footer-page.html');
 
     // HTML을 로드하고 DOM에 삽입하는 함수
     function loadHtml(elementId, url) {
